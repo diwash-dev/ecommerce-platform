@@ -405,4 +405,6 @@ The backend package metadata declares the ISC license, but no `LICENSE` file is 
 
 ## Author
 
-No author or maintainer identity is specified in the current package metadata or project configuration.
+Diwash
+
+GitHub: https://github.com/diwash-dev
